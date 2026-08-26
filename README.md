@@ -18,7 +18,7 @@
 
 查看规范文档：
 
-- 文档格式标准：[量潮文档格式章程](https://github.com/quanttide/quanttide-docs/blob/main/format/index.md)
+- 文档格式标准：[量潮文档格式章程](https://github.com/quanttide/quanttide-bylaw-of-document-engineering/blob/main/format/index.md)
 - 版本发布标准：[devops/release.md](devops/release.md)
 - Git使用标准：[devops/git.md](devops/git.md)
 - 工程标准资产：[asset/category/specification.md](asset/category/specification.md)
