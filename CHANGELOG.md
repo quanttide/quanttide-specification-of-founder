@@ -4,7 +4,7 @@
 
 ### Changed
 
-- README.md/AGENTS.md：文档格式标准引用更新（`docs/format.md` 已迁移至 `quanttide-docs/format/index.md`，升级为量潮社区约定）
+- README.md/AGENTS.md：文档格式标准引用更新（`docs/format.md` 已迁移至 `quanttide-bylaw-of-document-engineering/format/index.md`，升级为量潮社区约定）
 
 ## [0.1.3] - 2026-04-12
 
