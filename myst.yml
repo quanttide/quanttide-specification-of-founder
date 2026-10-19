@@ -8,6 +8,9 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: work
+      children:
+        - file: work/syntax.md
 site:
   template: book-theme
   options:
