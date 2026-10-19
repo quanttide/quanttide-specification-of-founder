@@ -6,4 +6,4 @@
 
 ## 目录
 
-- [work/syntax.md](./work/syntax.md)：work 语法——work 文档里嵌入的可执行块，字段、判据、能力与自检四条。
+- 待补充。
