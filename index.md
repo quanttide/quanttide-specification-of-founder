@@ -6,4 +6,5 @@
 
 ## 目录
 
-- [agent/index.md](./agent/index.md)：智能体协作——owner 与 reviewer 的两方结构，直连与转发两种连接方式，七条规则。
+- [work/index.md](./work/index.md)：工作结构——owner 与 reviewer 两个角色，五站一轮，凭证与账本，五条规则。
+- [agent/index.md](./agent/index.md)：双智能体协作——两个独立主体，消息与产物，直连与转发，两条规则。
