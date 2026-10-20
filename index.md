@@ -6,4 +6,4 @@
 
 ## 目录
 
-- 待补充。
+- [agent/index.md](./agent/index.md)：智能体协作——owner 与 reviewer 的两方结构，直连与转发两种连接方式，七条规则。
