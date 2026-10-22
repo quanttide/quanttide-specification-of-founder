@@ -16,6 +16,7 @@
 
 ### 新增
 
+- `default/`：基础概念规格——`rule.md`、`contract.md`、`criterion.md` 各记一个概念的本意、计算机实现与核心区别，`index.md` 记三者对比与协同
 - `work/index.md`：工作结构规格——owner 与 reviewer 两个角色、五站一轮、凭证与账本；规则 R1、R2、R5、R6、R7，自 `agent/index.md` 拆出
 - `agent/index.md`：智能体协作规格——一句话情境、自然语言描述与形式化规则三段；自手册迁入
 - 初始化规格仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`

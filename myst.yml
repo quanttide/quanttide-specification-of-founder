@@ -8,6 +8,12 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: 基础
+      children:
+        - file: default/index.md
+        - file: default/rule.md
+        - file: default/contract.md
+        - file: default/criterion.md
     - title: 工作
       children:
         - file: work/index.md
