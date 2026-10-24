@@ -16,6 +16,7 @@
 
 ### 新增
 
+- `docs/frontmatter.md`：文档头规格——定义 `status`、`authors`、`context` 三个字段与 D1–D4 四条规则；字段定义从语言规格移入本层
 - `language/context.md`：语境规格——定义语场、语旨、语式三个组成部分，给出语用失误的三维关系与 C1–C4 四条规则
 
 - `meta/`：元概念规格——`rule.md`、`contract.md`、`criterion.md` 各记一个概念的本意、计算机实现与核心区别，`index.md` 记三者对比与协同
@@ -25,6 +26,7 @@
 
 ### 变更
 
+- `language/context.md`：C5 只留「例外须声明」，字段名与取值表交给文档头规格；语言规格不再定义文档字段
 - `language/context.md`：语境从「对象、读者、惯例」改为语场、语旨、语式三项，惯例拆进体裁规约与语域期望；「错配」改称语用失误
 - `language/context.md`：只留基本概念与形式化关系，删除标注向量、桥接映射、失误报告格式等过早的实现细节
 
