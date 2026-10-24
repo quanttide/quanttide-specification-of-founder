@@ -20,6 +20,9 @@ project:
     - title: 智能体
       children:
         - file: agent/index.md
+    - title: 语言
+      children:
+        - file: language/context.md
 site:
   template: book-theme
   options:

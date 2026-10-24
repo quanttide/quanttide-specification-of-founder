@@ -16,6 +16,8 @@
 
 ### 新增
 
+- `language/context.md`：语境规格——语境由对象、读者、惯例三者确定，与上下文分开；把章程的禁用词读成语境边界，明确计算机术语进小说、财务术语进日常属于语境错配；列 C1–C4 四条规则
+
 - `meta/`：元概念规格——`rule.md`、`contract.md`、`criterion.md` 各记一个概念的本意、计算机实现与核心区别，`index.md` 记三者对比与协同
 - `work/index.md`：工作结构规格——owner 与 reviewer 两个角色、五站一轮、凭证与账本；规则 R1、R2、R5、R6、R7，自 `agent/index.md` 拆出
 - `agent/index.md`：智能体协作规格——一句话情境、自然语言描述与形式化规则三段；自手册迁入
