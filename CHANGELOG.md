@@ -16,6 +16,7 @@
 
 ### 新增
 
+- `agent/governance-cost.md`：治理成本规格——误拦、漏过、维护三项成本的算法，净收益公式与 M1–M5 五条规则；测法与删规则的判据
 - `language/context.md`：语境规格——定义语场、语旨、语式三个组成部分，给出语用失误的三维关系与 C1–C4 四条规则
 
 - `meta/`：元概念规格——`rule.md`、`contract.md`、`criterion.md` 各记一个概念的本意、计算机实现与核心区别，`index.md` 记三者对比与协同
