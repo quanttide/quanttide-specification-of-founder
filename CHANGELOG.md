@@ -16,7 +16,7 @@
 
 ### 新增
 
-- `language/context.md`：语境规格——定义语场、语旨、语式与体裁、语域等基本概念，给出语用失误的三维关系与 C1–C4 四条规则；判定细则注明由标注体系另定
+- `language/context.md`：语境规格——定义语场、语旨、语式三个组成部分，给出语用失误的三维关系与 C1–C4 四条规则
 
 - `meta/`：元概念规格——`rule.md`、`contract.md`、`criterion.md` 各记一个概念的本意、计算机实现与核心区别，`index.md` 记三者对比与协同
 - `work/index.md`：工作结构规格——owner 与 reviewer 两个角色、五站一轮、凭证与账本；规则 R1、R2、R5、R6、R7，自 `agent/index.md` 拆出
