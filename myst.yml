@@ -11,9 +11,6 @@ project:
     - title: 元概念
       children:
         - file: meta/index.md
-        - file: meta/rule.md
-        - file: meta/contract.md
-        - file: meta/criterion.md
     - title: 工作
       children:
         - file: work/index.md

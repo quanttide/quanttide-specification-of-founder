@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 变更
+
+- `meta/rule.md`、`meta/contract.md`、`meta/criterion.md` 降级到 gallery，当标准模型；`meta/index.md` 改为指向新位置
+
 ### 移除
 
 - `work/syntax.md`：work 语法尚未成为标准，降级迁出至语境层的 `work/specification/`；本仓暂无可收录规格
