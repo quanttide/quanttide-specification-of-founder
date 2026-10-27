@@ -12,7 +12,7 @@
 
 ### 变更
 
-- `meta/index.md` 重写为通用语言：按依赖顺序定义关键概念，每词一义
+- `meta/index.md` 重写为通用语言：只留本体论与范畴论两条主干，按依赖顺序定义
 - `meta/rule.md`、`meta/contract.md`、`meta/criterion.md` 降级到 gallery，当标准模型；`meta/index.md` 改为指向新位置
 
 ### 移除
