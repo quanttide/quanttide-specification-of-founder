@@ -10,4 +10,5 @@
 - [docs/frontmatter.md](./docs/frontmatter.md)：文档头——状态、署名、语境三个字段的含义与 D1–D4 四条规则。
 - [work/index.md](./work/index.md)：工作结构——owner 与 reviewer 两个角色，五站一轮，凭证与账本，五条规则。
 - [agent/index.md](./agent/index.md)：智能体——身份、上下文、能力边界与输出，两个主体相接的直连与转发，两条规则。
+- [execute/index.md](./execute/index.md)：执行管理框架——决策、计划、执行、评估、复盘五个动词与 Puzzle、Objective、Task、Criteria 四个名词，动词是过程、名词是产物。
 - [language/context.md](./language/context.md)：语境——语场、语旨、语式三个概念，语用失误的三维关系与 C1–C5 五条规则；解释与例子见论文《语境：词为什么站错位置》。
